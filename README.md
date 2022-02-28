@@ -28,8 +28,8 @@
 </div>
   
 <div><h1 text-aligh="center"> Minhas redes sociais </h1>
-    <img align="center" alt="viniciusfsantos-Linkedin" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
-    <img align="center" alt="viniciusfsantos-Instagram" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />
+    <a href="https://linkedin.com/in/vfsantos0099"><img align="center" alt="viniciusfsantos-Linkedin" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white /></a>
+    <a href="https://www.instagram.com/viniciusfernandes_santos/"><img align="center" alt="viniciusfsantos-Instagram" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white /></a>
     <p></p>
     <div> 
       <h4>Acesse meu site de apresentação!</h4>
