@@ -16,8 +16,7 @@
 <div><h1 text-aligh="center"> Linguagens e Ferramentas </h1>
   <img align="center" alt="viniciusfsantos-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="viniciusfsantos-Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="viniciusfsantos-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="viniciusfsantos-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />    
+  <img align="center" alt="viniciusfsantos-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />   
   <img align="center" alt="viniciusfsantos-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />    
   <img align="center" alt="viniciusfsantos-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="vininciusfsantos-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
