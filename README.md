@@ -9,7 +9,7 @@
 <div><h1 text-aligh="center">Minhas estatísticas Git</h1></div> 
 <div align="center">
   <a href="https://github.com/viniciusfsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=typescript,html,css,jupyter notebook" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark" />
 </div>
   <p></p>
