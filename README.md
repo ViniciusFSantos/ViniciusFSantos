@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/viniciusfsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark&hide=html,css,scss,gap,gdscript,jupyter_notebook,batchfile" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark&hide=typescript,html,css,scss,gap,gdscript,jupyternotebook,batchfile" />
 </div>
   <p></p>
 <div><h1 text-aligh="center"> Linguagens e Ferramentas </h1>
