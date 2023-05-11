@@ -31,8 +31,5 @@
     <a href="https://www.instagram.com/viniciusfernandes_santos/"><img align="center" alt="viniciusfsantos-Instagram" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white /></a>
     <p></p>
     <div> 
-      <h4>Acesse meu site de apresentação!</h4>
-      <a href="https://presentation-vfsantos.herokuapp.com"><img align="center" alt="viniciusfsantos-Presentationsite" src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg /> <img align="center"  height="20" width="125" alt="viniciusfsantos-MadeWithPython" src=http://ForTheBadge.com/images/badges/made-with-python.svg /></a>  
-    </div>
 
 </div>
